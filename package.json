@@ -2,7 +2,7 @@
   "name": "to-do-list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://abhishekkumarme.github.io/to_do_list_by_react",
+  "homepage": "http://abhishekkumarme.github.io/Todo_list_by_React",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
     "@fortawesome/free-solid-svg-icons": "^6.2.1",
